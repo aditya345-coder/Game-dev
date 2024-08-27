@@ -21,7 +21,7 @@ git clone https://github.com/your-username/coin-collector-game.git
 ```
 ### Compile the Java files:
 ```
-javac *.java
+javac GameFrame.java
 ```
 ### Run the game:
 ```
