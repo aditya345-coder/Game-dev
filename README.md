@@ -1,8 +1,8 @@
-# Coin Collector Game
+# Jungle Run 
 
 ## Overview
 
-The Coin Collector Game is a simple 2D game created using Java AWT and Swing. The objective of the game is to control a player who can move left or right to collect coins and increase the score. The game is designed to be fun and easy to play, suitable for all ages.
+The Jungle Run Game is a simple 2D game created using Java AWT and Swing. The objective of the game is to control a player who can move left or right to collect coins and increase the score. The game is designed to be fun and easy to play, suitable for all ages.
 
 ## Features
  * Player Movement: Control the player using keyboard inputs to move left or right.
